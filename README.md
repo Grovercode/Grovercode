@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, I'm Hriday Grover! 👋
+
+
+- 🔭 I'm a native android developer and I'm currently studying in IIIT Lucknow
+- 🌱 I’m currently learning flutter, blockchain development and machine learning
+- 👯 I’m looking to collaborate / intern
 
 <!--
 **Grovercode/Grovercode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
