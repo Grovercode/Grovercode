@@ -5,6 +5,11 @@
 - 🌱 I’m currently learning flutter, blockchain development and machine learning
 - 👯 I’m looking to collaborate / intern
 
+### 📫 How to reach me:
+
+- LinkedIn: [@HridayGrover](https://www.linkedin.com/in/hriday-grover-186384196/)
+- Email: [groverhriday12@gmail.com](groverhriday12@gmail.com)
+
 <!--
 **Grovercode/Grovercode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
