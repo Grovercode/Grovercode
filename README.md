@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 
-- 🔭 I'm a native android developer and I'm currently studying in IIIT Lucknow
+- 🔭 I'm a developer/problem solver and I'm currently studying in IIIT Lucknow
 - 🌱 I’m currently learning flutter, blockchain development and machine learning
 - 👯 I’m looking to collaborate / intern
 
