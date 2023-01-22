@@ -1,10 +1,13 @@
-### Hello! 👋
+### Hello, I'm Hriday Grover! 👋
 
 
 - 🔭 I'm a developer/problem solver and I'm currently studying in IIIT Lucknow
-- 🌱 I’m currently learning flutter, blockchain development and machine learning
-- 👯 I’m looking to collaborate / intern
+- 🌱 I’m currently learning React, Redux, flutter, blockchain development and machine learning
 
+### 📫 How to reach me:
+
+- LinkedIn: [@HridayGrover](https://www.linkedin.com/in/hriday-grover-186384196/)
+- Email: [groverhriday12@gmail.com]
 
 <!--
 **Grovercode/Grovercode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +19,7 @@
 - 🌱 I’m currently learning flutter, blockchain development and machine learning
 - 👯 I’m looking to collaborate / intern
 
-### 📫 How to reach me:
 
-- LinkedIn: [@HridayGrover](https://www.linkedin.com/in/hriday-grover-186384196/)
-- Email: [groverhriday12@gmail.com]
 
 Here are some ideas to get you started:
 
