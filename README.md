@@ -1,8 +1,8 @@
 ### Hello, I'm Hriday Grover! 👋
 
 
-- 🔭 I'm a developer/problem solver and I'm currently studying in IIIT Lucknow
-- 🌱 I’m currently learning React, Redux, flutter, blockchain development and machine learning
+- 🔭 I'm a SDE - Intern at Acko, I enjoy development/problem solving and I'm a IIIT Lucknow Graduate
+- 🌱 I’m into React, Next, Redux, flutter, blockchain development and machine learning
 
 ### 📫 How to reach me:
 
