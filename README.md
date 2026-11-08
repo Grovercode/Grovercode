@@ -1,7 +1,7 @@
 ### Hello, I'm Hriday Grover! 👋
 
 
-- 🔭 I'm a SDE - Intern at Acko, I enjoy development/problem solving and I'm a IIIT Lucknow Graduate
+- 🔭 I'm a Software Engineer 2 (Frontend) at Sortly, I enjoy development/problem solving and I'm a IIIT Lucknow Graduate
 - 🌱 I’m into React, Next, Redux, flutter, blockchain development and machine learning
 
 ### 📫 How to reach me:
